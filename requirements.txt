@@ -1,0 +1,11 @@
+numpy
+tqdm
+torch
+huggingface-hub
+
+
+# Maybe needed
+# psutil  # For system monitoring
+# tensorboard  # For profiling logs
+# nvidia-ml-py3  # For GPU monitoring
+# iperf3  # For network bandwidth testing 
